@@ -5,3 +5,5 @@ Edição txt.
 Identity added?
 
 Alteração com nome completo
+
+Alteração feita pelo WSL!
